@@ -1,9 +1,9 @@
 # Universidad Politecnica de Tulancingo.
 
-##Ingenieria en Electronica y Telecomunicaciones.
+Ingenieria en Electronica y Telecomunicaciones.
 
-##Logica de Programacion.
+Logica de Programacion.
 
-##David Islas Alcantara.
+David Islas Alcantara.
 
-##visual estudio 2019.
+visual estudio 2019.
