@@ -4,7 +4,7 @@
 	|*Ingenieria en Electronica y Telecuminicaciones                 |
 	|*Logica de Programacion                                         |
 	|*David Islas Alcantara                                          |
-	|*programa para hacer fibonacci                                  |
+	|*programa para hacer fibonacci y formula del chcicharronera     |
 	------------------------------------------------------------------
 */
 
