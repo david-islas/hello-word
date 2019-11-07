@@ -1,4 +1,4 @@
-# Universidad Politecnica de Tulancingo.
+# Universidad Poliecnica de Tulancingo.
 
 Ingenieria en Electronica y Telecomunicaciones.
 
