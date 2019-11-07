@@ -1,8 +1,8 @@
-# Universidad Poliecnica de Tulancingo.
+# Universidad Poliécnica de Tulancingo.
 
-Ingenieria en Electronica y Telecomunicaciones.
+Ingeniería en Electrónica y Telecomunicaciones.
 
-Logica de Programacion.
+Lógica de Programación.
 
 David Islas Alcantara.
 
